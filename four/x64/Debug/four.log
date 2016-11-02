@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\shuru\onedrive\documents\visual studio 15\projects\four\four\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  four.vcxproj -> C:\Users\shuru\OneDrive\Documents\Visual Studio 15\Projects\four\x64\Debug\four.exe
+  four.vcxproj -> C:\Users\shuru\OneDrive\Documents\Visual Studio 15\Projects\four\x64\Debug\four.pdb (Partial PDB)
